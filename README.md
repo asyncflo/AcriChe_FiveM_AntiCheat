@@ -9,3 +9,5 @@ Geschwindigkeit: Bewege dich schneller, als es die Limits erlauben.
 Blacklisted Events: Trigger ein verbotenes Event wie esx:giveMoney.
 Unerlaubte Waffen: Gib dir eine Waffe wie WEAPON_RAILGUN.
 Alle Verstöße sollten erkannt werden, und der Spieler wird entweder gebannt oder aus dem Server geworfen. Logs werden im Discord-Kanal angezeigt.
+
+Offensichtlich kann man das nicht auf großen FiveM Servern benutzen.
